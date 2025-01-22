@@ -1,2 +1,3 @@
-# Chris_myz_Lee
-Personal repository
+# About me
+## This is my personal repository
+### I am GitHub beginner :joy:
